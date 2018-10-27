@@ -5,3 +5,10 @@ C:\Users\Ronka\hello-git\LCM_GCD\LCM_GCD\obj\Debug\LCM_GCD.csprojAssemblyReferen
 C:\Users\Ronka\hello-git\LCM_GCD\LCM_GCD\obj\Debug\LCM_GCD.csproj.CoreCompileInputs.cache
 C:\Users\Ronka\hello-git\LCM_GCD\LCM_GCD\obj\Debug\LCM_GCD.exe
 C:\Users\Ronka\hello-git\LCM_GCD\LCM_GCD\obj\Debug\LCM_GCD.pdb
+D:\gitdata\LCM_GCD\LCM_GCD\LCM_GCD\bin\Debug\LCM_GCD.exe.config
+D:\gitdata\LCM_GCD\LCM_GCD\LCM_GCD\bin\Debug\LCM_GCD.exe
+D:\gitdata\LCM_GCD\LCM_GCD\LCM_GCD\bin\Debug\LCM_GCD.pdb
+D:\gitdata\LCM_GCD\LCM_GCD\LCM_GCD\obj\Debug\LCM_GCD.csprojAssemblyReference.cache
+D:\gitdata\LCM_GCD\LCM_GCD\LCM_GCD\obj\Debug\LCM_GCD.csproj.CoreCompileInputs.cache
+D:\gitdata\LCM_GCD\LCM_GCD\LCM_GCD\obj\Debug\LCM_GCD.exe
+D:\gitdata\LCM_GCD\LCM_GCD\LCM_GCD\obj\Debug\LCM_GCD.pdb
