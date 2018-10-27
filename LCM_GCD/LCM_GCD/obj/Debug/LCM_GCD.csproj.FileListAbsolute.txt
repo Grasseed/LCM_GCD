@@ -1,0 +1,7 @@
+C:\Users\Ronka\hello-git\LCM_GCD\LCM_GCD\bin\Debug\LCM_GCD.exe.config
+C:\Users\Ronka\hello-git\LCM_GCD\LCM_GCD\bin\Debug\LCM_GCD.exe
+C:\Users\Ronka\hello-git\LCM_GCD\LCM_GCD\bin\Debug\LCM_GCD.pdb
+C:\Users\Ronka\hello-git\LCM_GCD\LCM_GCD\obj\Debug\LCM_GCD.csprojAssemblyReference.cache
+C:\Users\Ronka\hello-git\LCM_GCD\LCM_GCD\obj\Debug\LCM_GCD.csproj.CoreCompileInputs.cache
+C:\Users\Ronka\hello-git\LCM_GCD\LCM_GCD\obj\Debug\LCM_GCD.exe
+C:\Users\Ronka\hello-git\LCM_GCD\LCM_GCD\obj\Debug\LCM_GCD.pdb
