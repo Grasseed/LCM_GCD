@@ -18,7 +18,7 @@ namespace LCM_GCD
             int num1, num2;
             Console.Write("請輸入第一個數:");
             num1 = int.Parse(Console.ReadLine());
-            Console.Write("請輸入第一個數:");
+            Console.Write("請輸入第二個數:");
             num2 = Convert.ToInt32(Console.ReadLine());
             int Product = num1 * num2;//先將原兩數相乘,以利後續計算最小公倍數
             for(int K=0; K<=1; ++K)
@@ -35,8 +35,9 @@ namespace LCM_GCD
                 Console.WriteLine("請輸入至少一數不為0!");
                 Console.Write("請輸入第一個數:");
                 num1 = int.Parse(Console.ReadLine());
-                Console.Write("請輸入第一個數:");
+                Console.Write("請輸入第二個數:");
                 num2 = Convert.ToInt32(Console.ReadLine());
+                Product = num1 * num2;
             }
             //只要有0的存在,程式便不執行公因數公倍數判斷
             if (num1<=num2)
