@@ -43,13 +43,7 @@ namespace LCM_GCD
                 num2 = box;
             }
             //排序,讓num1必大於等於num2
-            int num3 = num1 % num2;
-            int box1;
-            box1 = num3;
-            num3 = num1;
-            num1 = num2;
-            num2 = box1;
-            //第一次輾轉相除法
+            int num3, box1;
             while (num1 != 0 && num2 != 0)
             {
                 num3 = num1 % num2;
