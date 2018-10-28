@@ -35,7 +35,7 @@ namespace LCM_GCD
                 Product = num1 * num2;
             }
             //只要有0的存在,程式便不執行公因數公倍數判斷
-            if (num1 <= num2)
+            if (num1 < num2)
             {
                 int box;
                 box = num1;
